@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam040&label=Profile%20views&color=0e75b6&style=flat" alt="alam040" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alam040&theme=" alt="alam040" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alam040&theme=" alt="alam040" /></a> </p>--->
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **React**
